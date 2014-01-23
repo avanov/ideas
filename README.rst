@@ -1,0 +1,4 @@
+ideas
+=====
+
+Contemplate new projects.

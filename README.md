@@ -1,4 +1,0 @@
-ideas
-=====
-
-contemplate new projects
