@@ -37,3 +37,5 @@ Plim DSL
    1. file1..file6 should be compiled into a single file for production environment.
    2. ``require asset.name, asset.another.name`` will produce only one inclusion of the
       ``compiled_file1`` into a template.
+
+3. Strict compilation order.
